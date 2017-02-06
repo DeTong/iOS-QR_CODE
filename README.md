@@ -1,2 +1,4 @@
 # iOS-QR_CODE
 iOS-QR_CODE
+
+大家好.
